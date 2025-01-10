@@ -1,7 +1,7 @@
 ![Alt text](images/stm.jpg)
 ![Alt text](images/NUCLEO-F411RE.jpg)
 ![Alt text](images/HC-SR501.jpg)
-![Alt text](images/active buzzer.jpg)
+![Alt text](images/active-buzzer.jpg)
 
 
 # Motion Detection Alarm System

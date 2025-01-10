@@ -1,7 +1,8 @@
 ![Alt text](images/stm.jpg)
-![Alt text](images/NUCLEO-F411RE.jpg)
-![Alt text](images/HC-SR501.jpg)
-![Alt text](images/active-buzzer.jpg)
+<img src="images/NUCLEO-F411RE.jpg" alt="Alt text" width="400" />
+<img src="images/HC-SR501.jpg" alt="Alt text" width="400" />
+<img src="images/active-buzzer.jpg" alt="Alt text" width="400" />
+
 
 
 # Motion Detection Alarm System

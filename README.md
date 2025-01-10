@@ -1,3 +1,9 @@
+![Alt text](images/stm.jpg)
+![Alt text](images/NUCLEO-F411RE.jpg)
+![Alt text](images/HC-SR501.jpg)
+![Alt text](images/active buzzer.jpg)
+
+
 # Motion Detection Alarm System
 
 This is a project for a motion detection alarm system using the **NUCLEO STM32F411RE** microcontroller, an **HC-SR501 PIR motion sensor**, and an **Active Buzzer Module**. The system triggers an audible alarm when motion is detected.

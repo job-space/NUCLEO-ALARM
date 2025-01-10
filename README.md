@@ -4,4 +4,4 @@
 
 ## License
 
-Project YourLibraryProposes is distributed under the MIT lisense.
+Project NUCLEO-ALARM is distributed under the MIT lisense.
